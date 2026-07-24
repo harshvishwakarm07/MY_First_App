@@ -6,8 +6,8 @@
 
 ## Hello Harsh Screen
 
-![Hello Harsh Screen](images/2.png)
+![Hello Harsh Screen](images/2.jpeg)
 
 ## First Android Application
 
-![First Android Application](images/3.png)
+![First Android Application](images/3.jpeg)
