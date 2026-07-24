@@ -4,10 +4,6 @@
 
 ![Hello World Screen ](images/1.jpeg)
 
-## Hello Harsh Screen
-
-![Hello Harsh Screen](images/2.jpeg)
-
 ## First Android Application
 
 ![First Android Application](images/3.jpeg)
