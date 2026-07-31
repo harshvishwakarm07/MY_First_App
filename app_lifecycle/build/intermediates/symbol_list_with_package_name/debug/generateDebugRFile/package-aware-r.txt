@@ -1,0 +1,7 @@
+com.example.lifecycle
+id title
+id userDetails
+layout activity_main
+string app_name
+string experiment_title
+string user_details

@@ -1,6 +1,22 @@
 USN : 25MCAR0203 , HARSH VISHWAKARMA 
 
-# Experiment 1: Introduction to Android Development
+# Android Experiments Repository - Harsh VIshwakarma (25MCAR0203)
+
+This repository contains a collection of Android development experiments completed as part of the curriculum.
+
+## Experiments List
+
+### 1. [Experiment 1: Introduction to Android Development](README.md)
+- **Topic**: Environment Setup, Hello World, UI Basics.
+- **Location**: `:app` module.
+
+### 2. [Experiment 2: Activity Lifecycle](README_Experiment2.md)
+- **Topic**: Understanding Activity state transitions using callback methods.
+- **Location**: `:app_lifecycle` module.
+
+---
+
+## Original README (Experiment 1 Content)
 
 ## Overview
 This experiment demonstrates the foundational steps of setting up an Android development environment using Android Studio. It covers project creation, understanding the basic structure of an Android application, and building a simple "Hello World" application personalized with student details.

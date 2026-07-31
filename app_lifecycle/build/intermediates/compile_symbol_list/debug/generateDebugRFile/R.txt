@@ -1,0 +1,6 @@
+int id title 0x0
+int id userDetails 0x0
+int layout activity_main 0x0
+int string app_name 0x0
+int string experiment_title 0x0
+int string user_details 0x0

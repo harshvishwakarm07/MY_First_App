@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activity Lifecycle</string>
+    <string name="experiment_title">Experiment 2: Activity Lifecycle</string>
+    <string name="user_details">Harsh VIshwakarma\n25MCAR0203</string>
+</resources>

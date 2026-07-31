@@ -1,0 +1,8 @@
+R_DEF: Internal format may change without notice
+local
+id title
+id userDetails
+layout activity_main
+string app_name
+string experiment_title
+string user_details
