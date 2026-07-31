@@ -37,7 +37,12 @@ app_lifecycle/
 ## Output Screenshot
 *Below is the UI of Experiment 2 showing student details:*
 
-![Output Screenshot](images/exp2_output.jpeg)
+![Output Screenshot](images/exp2/Screenshot%202026-07-31%20173018.png)
+
+## Demo Video
+*Demonstration of Activity Lifecycle transitions:*
+
+https://github.com/harshvishwakarm07/MY_First_App/raw/main/images/exp2/myAPp-2.mp4
 
 ## Test Cases
 
@@ -46,7 +51,7 @@ app_lifecycle/
 - **Scenario**: App moves from non-existent to foreground.
 - **Expected Sequence**: `onCreate` -> `onStart` -> `onResume`.
 - **Screenshot**:
-  ![TC1: Start Sequence](images/exp2_tc1.jpeg)
+  ![TC1: Start Sequence](images/exp2/2.png)
 
 ### Test Case 2: Backgrounding and Resuming
 - **Description**: Press the **Home** button and then return to the app via the **Recents** menu.
@@ -55,14 +60,14 @@ app_lifecycle/
     - (Home): `onPause` -> `onStop`.
     - (Return): `onRestart` -> `onStart` -> `onResume`.
 - **Screenshot**:
-  ![TC2: Background/Resume](images/exp2_tc2.jpeg)
+  ![TC2: Background/Resume](images/exp2/3.png)
 
 ### Test Case 3: Proper Termination
 - **Description**: Press the **Back** button from the main activity.
 - **Scenario**: App is being finished by the user.
 - **Expected Sequence**: `onPause` -> `onStop` -> `onDestroy`.
 - **Screenshot**:
-  ![TC3: Termination](images/exp2_tc3.jpeg)
+  ![TC3: Termination](images/exp2/2.png)
 
 ---
 **Developed by:** Harsh VIshwakarma  

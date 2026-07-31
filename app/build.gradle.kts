@@ -2,6 +2,10 @@ plugins {
     alias(libs.plugins.android.application)
 }
 
+kotlin {
+    jvmToolchain(17)
+}
+
 android {
     namespace = "com.example.myapp_1"
     compileSdk {
@@ -13,6 +17,7 @@ android {
     defaultConfig {
         applicationId = "com.example.myapp_1"
         minSdk = 24
+        //noinspection OldTargetApi
         targetSdk = 36
         versionCode = 1
         versionName = "1.0"
