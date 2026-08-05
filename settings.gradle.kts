@@ -25,3 +25,4 @@ dependencyResolutionManagement {
 rootProject.name = "MYAPP_1"
 include(":app")
 include(":app_lifecycle")
+include(":app_intent")

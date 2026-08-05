@@ -14,6 +14,10 @@ This repository contains a collection of Android development experiments complet
 - **Topic**: Understanding Activity state transitions using callback methods.
 - **Location**: `:app_lifecycle` module.
 
+### 3. [Experiment 3: Intents & List Interaction](README_Experiment3.md)
+- **Topic**: Data passing between activities using Explicit Intents and ListViews.
+- **Location**: `:app_intent` module.
+
 ---
 
 ## Original README (Experiment 1 Content)

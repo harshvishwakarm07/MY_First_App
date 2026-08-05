@@ -1,0 +1,11 @@
+com.example.intent
+id detailMessage
+id fruitListView
+id header
+id headerDetail
+layout activity_detail
+layout activity_main
+string app_name
+string click_instruction
+string experiment_title
+string user_details

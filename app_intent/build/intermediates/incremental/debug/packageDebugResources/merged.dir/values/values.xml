@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intent Lab</string>
+    <string name="click_instruction">Select a fruit from the list below:</string>
+    <string name="experiment_title">Experiment 3: Intents &amp; Lists</string>
+    <string name="user_details">Harsh VIshwakarma\n25MCAR0203</string>
+</resources>

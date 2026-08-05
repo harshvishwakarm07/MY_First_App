@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.intent.app_intent-debug-34:/layout_activity_detail.xml.flat",
+        "source": "com.example.intent.app_intent-main-36:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.example.intent.app_intent-debug-34:/layout_activity_main.xml.flat",
+        "source": "com.example.intent.app_intent-main-36:/layout/activity_main.xml"
+    }
+]
