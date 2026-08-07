@@ -37,7 +37,7 @@ app_intent/
 ## Output Screenshot
 *Main screen showing the list and student details:*
 
-![Output Screenshot](images/exp3/main_list.png)
+![Output Screenshot](images/main_list.jpeg)
 
 ## Test Cases
 
@@ -45,19 +45,19 @@ app_intent/
 - **Action**: Tap on "Apple" in the list.
 - **Expected Result**: Navigates to `DetailActivity` showing "You clicked on the Apple".
 - **Screenshot**:
-  ![TC1: Apple Click](images/exp3/detail_apple.png)
+  ![TC1: Apple Click](images/detail_apple.jpeg)
 
 ### Test Case 2: List Interaction - Banana
 - **Action**: Tap on "Banana" in the list.
 - **Expected Result**: Navigates to `DetailActivity` showing "You clicked on the Banana".
 - **Screenshot**:
-  ![TC2: Banana Click](images/exp3/detail_banana.png)
+  ![TC2: Banana Click](images/detail_banana.jpeg)
 
 ### Test Case 3: Proper Data Passing
 - **Action**: Tap on "Orange".
 - **Expected Result**: The second screen correctly identifies "Orange" via Intent Extras.
 - **Screenshot**:
-  ![TC3: Orange Click](images/exp3/detail_orange.png)
+  ![TC3: Orange Click](images/detail_orange.jpeg)
 
 ---
 **Developed by:** Harsh VIshwakarma  
